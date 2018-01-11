@@ -1,2 +1,3 @@
 print("hello");
 print('bb');
+print("Have a nice day");
